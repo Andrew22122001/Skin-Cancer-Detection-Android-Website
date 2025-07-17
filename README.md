@@ -34,15 +34,14 @@ To extract:
 - Lesion segmentation using Attention U-Net
 - Model trained on the HAM10000 dataset
 - RESTful API backend (Flask or Django)
-- Responsive frontend (HTML/CSS/JavaScript)
+- Responsive frontend (Angular)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧩 Frontend
-- HTML5, CSS3, JavaScript
-- Bootstrap or custom UI
+-Angular
 
 ### 🔧 Backend
 - Python (Flask or Django)
